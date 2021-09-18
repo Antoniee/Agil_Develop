@@ -8,15 +8,3 @@ Integrantes<br>
 4- DBA    -  Marian Antonia<br>
 5- Scrum Master  -  Freddy Zamora<br>
 
-esto es una prueba
-
-
-
-
-
-
-
-
-
-
-Prueba Antonia Update intento 4 
